@@ -1,3 +1,6 @@
 [submodule "ansible-role-hadoop"]
 	path = ansible-role-hadoop
 	url = https://github.com/hubzhangxj/ansible-role-hadoop
+[submodule "ansible-ceph-common"]
+	path = ansible-ceph-common
+	url = https://github.com/ceph/ansible-ceph-common.git
