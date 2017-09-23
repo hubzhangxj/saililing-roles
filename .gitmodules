@@ -1,0 +1,3 @@
+[submodule "ansible-role-hadoop"]
+	path = ansible-role-hadoop
+	url = https://github.com/hubzhangxj/ansible-role-hadoop
