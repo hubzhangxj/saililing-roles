@@ -7,3 +7,6 @@
 [submodule "ansible-role-maven"]
 	path = ansible-role-maven
 	url = https://github.com/hubzhangxj/ansible-role-maven.git
+[submodule "ansible-role-ceph"]
+	path = ansible-role-ceph
+	url = https://github.com/hubzhangxj/ansible-role-ceph.git
