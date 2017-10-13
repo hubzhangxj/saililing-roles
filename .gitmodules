@@ -1,0 +1,9 @@
+[submodule "ansible-role-hadoop"]
+	path = ansible-role-hadoop
+	url = https://github.com/hubzhangxj/ansible-role-hadoop.git
+[submodule "ansible-role-hibench"]
+	path = ansible-role-hibench
+	url = https://github.com/hubzhangxj/ansible-role-hibench.git
+[submodule "ansible-role-maven"]
+	path = ansible-role-maven
+	url = https://github.com/hubzhangxj/ansible-role-maven.git
